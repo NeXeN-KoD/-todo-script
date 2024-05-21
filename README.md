@@ -42,7 +42,7 @@ Exécution du programme :
 
 Pour exécuter le programme, vous devez le sauvegarder dans un fichier avec l'extension .sh (par exemple, todo.sh).
 Assurez-vous que le fichier a les permissions d'exécution avec la commande chmod +x todo.sh.
-Ensuite, exécutez le script en tapant ./todo.sh dans votre terminal.
+Créez un fichier texte nommé resultat.txt dans le même répertoire que le script pour enregistrer les données des tâches.
 
 
 
